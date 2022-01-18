@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+.like{
+  margin-right: 20px;
+}
+.navbarFix{
+  position: fixed;
+  align-items: center;
+  overflow: hidden;
+  z-index: 1;
+  width: 100%;
+
+  top: 0;
+
+
+}
+.listCard{
+  margin-top: 250px;
+  position: relative;
+}
